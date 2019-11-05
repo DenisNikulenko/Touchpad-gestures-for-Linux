@@ -49,12 +49,12 @@ interval:
   pinch: 0.4
 ```
   -----------------------------------------------------------------------------
+
+9. which fusuma - показать путь к fusuma
+10. gnome-session-properties - авто запуск приложений
+11. добавить путь к fusuma
   
-  9. which fusuma - показать путь к fusuma
-  10. gnome-session-properties - авто запуск приложений
-  11. добавить путь к fusuma
-  
-  Полезнные ссылки:
+# Полезные ссылки:
   1. [Fusuma](https://github.com/iberianpig/fusuma)
   2. [xdotol](https://github.com/jordansissel/xdotool/blob/master/xdotool.pod)
   3. [LIBINPUT-GESTURES](https://github.com/bulletmark/libinput-gestures)
