@@ -8,7 +8,7 @@
 6. mkdir -p ~/.config/fusuma   
 7. nano ~/.config/fusuma/config.yml
 -----------------------------------------------------------------------------------
-8.                             # config.yml
+# CONFIG.YML
 ```ruby
 swipe:
   3:
@@ -53,3 +53,8 @@ interval:
   9. which fusuma - показать путь к fusuma
   10. gnome-session-properties - авто запуск приложений
   11. добавить путь к fusuma
+  
+  Полезнные ссылки:
+  1. [Fusuma](https://github.com/iberianpig/fusuma)
+  2. [xdotol](https://github.com/jordansissel/xdotool/blob/master/xdotool.pod)
+  3. [LIBINPUT-GESTURES](https://github.com/bulletmark/libinput-gestures)
