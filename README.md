@@ -8,8 +8,8 @@
 6. mkdir -p ~/.config/fusuma   
 7. nano ~/.config/fusuma/config.yml
 -----------------------------------------------------------------------------------
-8.                             config.yml
-
+8.                             # config.yml
+```ruby
 swipe:
   3:
     left:
@@ -47,6 +47,7 @@ threshold:
 interval:
   swipe: 0.7
   pinch: 0.4
+```
   -----------------------------------------------------------------------------
   
   9. which fusuma - показать путь к fusuma
